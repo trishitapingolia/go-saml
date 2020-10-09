@@ -122,7 +122,7 @@ xml, xmlerr :=  idp.MetaDataResponse()
 Please see [examples](examples) for how to use the library to be an identity provider.
 
 ## Contributing
-Would love any contribution by you, including better documentation, tests or more robust functionality. Please follow the [contributing guide](CONTRIBUTING.md)
+Would love any contribution by you, including better documentation, tests or more robust functionality. Please follow the [contributing guide](CONTRIBUTING.md) and [code of conduct](https://github.com/LoginRadius/go-saml/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
-[MIT](LICENSE)
+For more information, refer to [MIT](LICENSE).
